@@ -1,0 +1,12 @@
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\obj\Debug\net6.0\JeanFrancois.Gautreau.FeatureMatching.csproj.AssemblyReference.cache
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\obj\Debug\net6.0\JeanFrancois.Gautreau.FeatureMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\obj\Debug\net6.0\JeanFrancois.Gautreau.FeatureMatching.AssemblyInfoInputs.cache
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\obj\Debug\net6.0\JeanFrancois.Gautreau.FeatureMatching.AssemblyInfo.cs
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\obj\Debug\net6.0\JeanFrancois.Gautreau.FeatureMatching.csproj.CoreCompileInputs.cache
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\bin\Debug\net6.0\JeanFrancois.Gautreau.FeatureMatching.deps.json
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\bin\Debug\net6.0\JeanFrancois.Gautreau.FeatureMatching.dll
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\bin\Debug\net6.0\ref\JeanFrancois.Gautreau.FeatureMatching.dll
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\bin\Debug\net6.0\JeanFrancois.Gautreau.FeatureMatching.pdb
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\obj\Debug\net6.0\JeanFrancois.Gautreau.FeatureMatching.dll
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\obj\Debug\net6.0\ref\JeanFrancois.Gautreau.FeatureMatching.dll
+C:\Users\jeffy\Documents\M2\microsoft\.NET\JeanFrancois.Gautreau.FeatureMatching\JeanFrancois.Gautreau.FeatureMatching\obj\Debug\net6.0\JeanFrancois.Gautreau.FeatureMatching.pdb

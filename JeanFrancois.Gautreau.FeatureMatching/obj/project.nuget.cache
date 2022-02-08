@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vBoxCG8LSDUgN6rUPyIekFnQGnG6fGRfjqfZXAA5CXHoPDw06eVOPe7c2kv2V11H9dvNF7GghTMkAKcD/4ZDvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffy\\.nuget\\packages\\opencvsharp4\\4.5.5.20211231\\opencvsharp4.4.5.5.20211231.nupkg.sha512",
+    "C:\\Users\\jeffy\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.5.20211231\\opencvsharp4.runtime.win.4.5.5.20211231.nupkg.sha512",
+    "C:\\Users\\jeffy\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\jeffy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.Console\\JeanFrancois.Gautreau.FeatureMatching.Console.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.Console\\JeanFrancois.Gautreau.FeatureMatching.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.Console\\JeanFrancois.Gautreau.FeatureMatching.Console.csproj",
+        "projectName": "JeanFrancois.Gautreau.FeatureMatching.Console",
+        "projectPath": "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.Console\\JeanFrancois.Gautreau.FeatureMatching.Console.csproj",
+        "packagesPath": "C:\\Users\\jeffy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeffy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.csproj": {
+                "projectPath": "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.csproj",
+        "projectName": "JeanFrancois.Gautreau.FeatureMatching",
+        "projectPath": "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching.csproj",
+        "packagesPath": "C:\\Users\\jeffy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffy\\Documents\\M2\\microsoft\\.NET\\JeanFrancois.Gautreau.FeatureMatching\\JeanFrancois.Gautreau.FeatureMatching\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeffy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.5.5.20211231, )"
+            },
+            "OpenCvSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.5.5.20211231, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
